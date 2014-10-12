@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMapConfig      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map Config 2.0//EN"      
+    "http://ibatis.apache.org/dtd/sql-map-config-2.dtd">
+    
+<sqlMapConfig>
+	<properties resource="kr/or/ddit/db/db.properties"/>
+	<settings useStatementNamespaces="true" /> <!-- 쿼리에 namespace를 붙여서 사용하겠음 -->
+	<sqlMap resource="kr/or/ddit/ibatis/mappings/sample.xml" />
+	<sqlMap resource="kr/or/ddit/ibatis/mappings/board.xml" />
+</sqlMapConfig>    
+
+
