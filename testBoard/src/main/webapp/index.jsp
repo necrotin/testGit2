@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-열려라참깨!!!
+열려라참깨!!! gitHub에서 수정한 내용입니다~~~~
 <%-- <a href="${pageContext.request.contextPath }/board/boardList.do">게시글 목록</a> --%>
 </body>
 </html>
