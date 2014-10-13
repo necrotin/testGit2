@@ -9,6 +9,6 @@
 </head>
 <body>
 열려라
-<a href="${pageContext.request.contextPath }/board/boardList.do">게시글 목록</a>
+<%-- <a href="${pageContext.request.contextPath }/board/boardList.do">게시글 목록</a> --%>
 </body>
 </html>
